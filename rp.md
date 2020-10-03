@@ -89,3 +89,13 @@
 ## Functional Interface
 
 ## Concurrency & Thread
+
+## Communication
+- socket
+- URLs
+- URL Connection
+
+## Data Serialization
+- Serialization XML & JSON
+- The SAX Parser
+
